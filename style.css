@@ -18,3 +18,9 @@ color: #D4AF37;
 border-left: 4px solid #8B0000;
 font-style: italic;
 }
+@font-face {
+font-family: “Pudelinka”;
+src: url(”Fonts/pudelinka.ttf” ) format('truetype’);
+font-weight: normal;
+font-style: normal;
+}
