@@ -334,6 +334,19 @@
     </main>
 </body>
 </html>
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="utf-8">
+    <title>Страница с кроссвордами</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <p>Стили загружены из файла <code>style.css</code>.</p>
+</body>
+</html>
+
+
 
 
 
