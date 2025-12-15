@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <title>Рождественская колядка</title>
+  <style>
+    body { font-family: sans-serif; padding: 2rem; background: #f9f3e9; }
+    h1 { color: #8b0000; }
+    ul { line-height: 1.6; }
+    a { color: #1a5276; text-decoration: underline; }
+  </style>
+</head>
+<body>
+  <h1>🎄 Рождественская колядка</h1>
+  <p>Поздравляю с наступающим Рождеством 2026!</p>
+  <p>Здесь вы найдёте материалы с поздравлениями:</p>
+  
+  <ul>
+    <li><a href="поздравление.pdf" target="_blank">Поздравление (PDF)</a></li>
+    <li><a href="поздравление.odt" download>Поздравление (ODT для LibreOffice)</a></li>
+  </ul>
+
+  <p><a href="/">← Вернуться на главную</a></p>
+</body>
+</html>
