@@ -6,7 +6,7 @@
 }
 
 body {
-  background-color: #d2b48c;
+  background-color: #e6f2ff; /* Нежно-голубой фон */
   margin-left: 20%;
   margin-right: 20%;
   border: 2px dotted black;
@@ -19,3 +19,5 @@ blockquote.q {
   border-left: 4px solid #8B0000;
   font-style: italic;
 }
+
+
